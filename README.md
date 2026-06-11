@@ -1,45 +1,28 @@
-
-<!-- Modern Luxury Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=12,20,24,30&text=&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&animation=fadeIn&section=header"/>
 </p>
 
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&repeat=false&width=1000&height=90&lines=DIVYANSH+LALOTRA"/>
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=1&pause=99999999&color=C77DFF&center=true&vCenter=true&repeat=false&width=900&height=70&lines=%3E+DIVYANSH+LALOTRA_" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=9D4EDD&center=true&vCenter=true&width=1000&lines=Machine+Learning+Enthusiast;MLSecOps+Explorer;Security-Aware+AI+Builder;Human-Centered+Designer" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=AI%2FML+Research+Enthusiast;MLSecOps+Learner;UI%2FUX+Designer;Quantitative+Finance+Explorer"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/nej1gotnochill">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-
+  
   <a href="https://www.linkedin.com/in/divyansh-lalotra-89145137a/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 
   <a href="https://leetcode.com/u/nej1gotnochill/">
-    <img src="https://cdn.simpleicons.org/leetcode/C77DFF" height="40"/>
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google_Big_Code-Top_1500-7B2CBF?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/India_Innovation_Challenge-Top_337%2F10000%2B-9D4EDD?style=flat-square" />
-  <img src="https://img.shields.io/badge/CGPA-8.60%2F10-C77DFF?style=flat-square" />
-</p>
-
----
-```
-
-
-
-
 
 ## 🚀 About Me
 - 🎓 B.E. in Computer Science and Business Systems, TIET (2025–2029)

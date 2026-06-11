@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=C77DFF&center=true&vCenter=true&width=900&lines=Building+intelligent+systems.;Exploring+ML+Security.;Designing+human-centered+experiences.;Forecasting+market+volatility." />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=CSBS+Student+%40+TIET;AI%2FML+Research+Enthusiast;UI%2FUX+Designer;MLSecOps+Learner;Quantitative+Finance+Explorer"/>
 </p>
 

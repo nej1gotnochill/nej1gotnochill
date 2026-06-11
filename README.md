@@ -49,15 +49,13 @@ I build end-to-end ML systems, secure ML pipelines, and tools that help develope
 - ML: **PyTorch**, **TensorFlow**, **Transformers**, **DeBERTa**
 - Data: **Pandas**, **NumPy**, **Scikit-learn**, **Jupyter**
 
-### MLOps & Backend
+### MLOps
 - MLOps: Experiment tracking, model deployment, monitoring
-- Backend: **Firebase**, **Vercel**, **Railway**
-- Cloud: **Google Cloud / Vertex AI**
 - Versioning & CI: **Git**, **GitHub Actions**
 
 ### Tools & Design
 - Dev: **VS Code**, **GitHub Copilot**
-- ML Platforms: **Hugging Face**
+- ML Platforms: **Hugging Face and Kaggle**
 - Design: **Figma**, UI/UX, Product Design
 
 ---

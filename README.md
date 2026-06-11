@@ -1,7 +1,35 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=3000&pause=1200&color=9D4EDD&center=true&vCenter=true&width=1000&height=90&lines=DIVYANSH+LALOTRA" />
-</h1>
+<!-- Premium Modern Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&animation=fadeIn&section=header" />
+</p>
+
+<div align="center">
+
+# Divyansh Lalotra
+
+### AI/ML Research Enthusiast • MLSecOps Learner • UI/UX Designer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Exploring+ML+Security;Designing+Human-Centered+Experiences;Forecasting+Market+Volatility" />
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Big_Code-Top_1500-7B2CBF?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/India_Innovation_Challenge-Top_337%2F10000%2B-9D4EDD?style=flat-square" />
+  <img src="https://img.shields.io/badge/CGPA-8.60%2F10-C77DFF?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/nej1gotnochill">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/divyansh-lalotra-89145137a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
+
+
 
 
 

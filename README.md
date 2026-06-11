@@ -1,7 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=2500&pause=500&color=9D4EDD&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Divyansh+Lalotra;Welcome+to+my+GitHub+Profile" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=250&section=header"/>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&height=80&lines=Divyansh+Lalotra" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=AI%2FML+Research+Enthusiast;MLSecOps+Learner;UI%2FUX+Designer;Quantitative+Finance+Explorer" />
+</p>
 
 <p align="center">
   <a href="https://github.com/nej1gotnochill">

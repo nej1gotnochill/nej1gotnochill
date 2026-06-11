@@ -1,51 +1,6 @@
-
-
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=&animation=fadeIn&fontAlignY=38&descAlignY=51" />
-</p>
-
-<!-- Animated Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=48&duration=2500&pause=1200&color=9D4EDD&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=Divyansh+Lalotra" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=2500&pause=500&color=9D4EDD&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Divyansh+Lalotra;Welcome+to+my+GitHub+Profile" />
 </h1>
-
-<!-- Animated Roles -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&repeat=true&width=1000&height=60&lines=AI%2FML+Research+Enthusiast;MLSecOps+Learner;UI%2FUX+Designer;Quantitative+Finance+Explorer;Building+Intelligent+Systems" />
-</h3>
-
-<!-- Recruiter Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Big%20Code-Top%201500-6A0DAD?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/India%20Innovation%20Challenge-Top%20337%2F10000%2B-7B2CBF?style=for-the-badge&logo=trophy&logoColor=white" />
-  <img src="https://img.shields.io/badge/CGPA-8.60%2F10-9D4EDD?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nej1gotnochill&label=Profile%20Views&color=7B2CBF&style=for-the-badge" />
-</p>
-
-<!-- Connect Buttons -->
-<p align="center">
-  <a href="https://github.com/nej1gotnochill">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/divyansh-lalotra-89145137a/">
-    <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/u/nej1gotnochill/">
-    <img src="https://img.shields.io/badge/LeetCode-9D4EDD?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/nej1gotnochill/nej1gotnochill/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 
 <p align="center">

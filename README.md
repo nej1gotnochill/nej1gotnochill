@@ -1,19 +1,16 @@
-
 <p align="center">
   <a href="https://github.com/nej1gotnochill">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-
+  
   <a href="https://www.linkedin.com/in/divyansh-lalotra-89145137a/">
-    <img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 
   <a href="https://leetcode.com/u/nej1gotnochill/">
-    <img src="https://img.shields.io/badge/LeetCode-9D4EDD?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40"/>
   </a>
 </p>
-
-
 
 
 

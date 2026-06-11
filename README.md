@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Divyansh Lalotra
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=2500&pause=500&color=9D4EDD&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Divyansh+Lalotra;Welcome+to+my+GitHub+Profile" />

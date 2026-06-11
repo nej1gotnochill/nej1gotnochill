@@ -1,28 +1,8 @@
 # 👋 Hi, I'm Divyansh Lalotra
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=220&section=header"/>
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&height=80&lines=Divyansh+Lalotra" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=2500&pause=500&color=9D4EDD&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Divyansh+Lalotra;Welcome+to+my+GitHub+Profile" />
 </h1>
-
-<h3 align="center">
-  AI/ML Research Enthusiast • MLSecOps Learner • UI/UX Designer
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=C77DFF&center=true&vCenter=true&width=900&lines=Building+intelligent+systems.;Exploring+ML+Security.;Designing+human-centered+experiences.;Forecasting+market+volatility." />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=C77DFF&center=true&vCenter=true&width=900&lines=Building+intelligent+systems.;Exploring+ML+Security.;Designing+human-centered+experiences.;Forecasting+market+volatility." />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=CSBS+Student+%40+TIET;AI%2FML+Research+Enthusiast;UI%2FUX+Designer;MLSecOps+Learner;Quantitative+Finance+Explorer"/>
-</p>
 
 ## 🚀 About Me
 - 🎓 B.E. in Computer Science and Business Systems, TIET (2025–2029)

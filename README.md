@@ -14,7 +14,6 @@ I build end-to-end ML systems, secure ML pipelines, and tools that help develope
 - 📊 I design and build **data science systems** from data ingestion to deployment
 - 🎨 I do **UI/UX design** (Figma) and care about product-minded engineering
 - 💻 I code in **Python**, **C++**, and love competitive programming & algorithms
-- 🛠 I work with cloud & devops: Firebase, Vercel, Railway, Google Vertex AI, and more
 - 🏢 Previously an **intern at Cosmic Attire **, working on ML/data projects and internal tools
 
 ---

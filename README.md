@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./assets/pixel-banner.svg" width="100%" />
-</p> 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=C77DFF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;Exploring+ML+Security;Designing+Human-Centered+Experiences;Forecasting+Market+Volatility"/>
+  <img src="./assets/divyansh-banner.svg" width="100%">
 </p>
 
 ## 🚀 About Me

@@ -33,13 +33,10 @@ I build end-to-end ML systems, secure ML pipelines, and tools that help develope
 ---
 
 ## key repos
-
-- **[Sentry](https://github.com/nej1gotnochill/Sentry)** – NeurIPS 2023: Sentry-Image for detecting AI-generated images  
-- **[HARNet-QuantFinance](https://github.com/nej1gotnochill/HARNet-QuantFinance)** – TensorFlow HARNet for realized volatility forecasting  
+ 
+ 
 - **[ThaparCanteenSalesOptimizer](https://github.com/nej1gotnochill/ThaparCanteenSalesOptimizer)** – Sales optimization & forecasting  
 - **[canteen-vision](https://github.com/nej1gotnochill/canteen-vision)** – Vision-based system for canteen operations  
-- **[Quant-Developers-Resources](https://github.com/nej1gotnochill/Quant-Developers-Resources)** – Curated quant & ML resources  
-- **[volatility-forecasting-harnet-garch-xgboost](https://github.com/nej1gotnochill/volatility-forecasting-harnet-garch-xgboost)** – HARNet/GARCH/XGBoost volatility forecasting
 
 ---
 

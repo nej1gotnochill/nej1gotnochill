@@ -1,14 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=250&section=header"/>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&height=80&lines=Divyansh+Lalotra" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=AI%2FML+Research+Enthusiast;MLSecOps+Learner;UI%2FUX+Designer;Quantitative+Finance+Explorer" />
-</p>
+# `◈ DIVYANSH LALOTRA ◈`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=C77DFF&center=true&vCenter=true&width=1000&lines=⚡+Building+Intelligent+Systems;🧠+Machine+Learning+Enthusiast;🔐+MLSecOps+Explorer;📈+Quantitative+Research+Explorer" />
+
+</div>
+
+
 
 <p align="center">
   <a href="https://github.com/nej1gotnochill">

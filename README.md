@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="./assets/divyansh-banner.svg" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&animation=fadeIn&section=header"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=1&pause=999999999&color=C77DFF&center=true&vCenter=true&repeat=false&width=1000&height=90&lines=DIVYANSH+LALOTRA"/>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=AI%2FML+Research+Enthusiast;MLSecOps+Learner;UI%2FUX+Designer;Quantitative+Finance+Explorer"/>
 </p>
 
 ## 🚀 About Me

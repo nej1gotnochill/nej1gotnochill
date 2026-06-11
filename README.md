@@ -1,11 +1,6 @@
-
-<div align="center">
-
-# `◈ DIVYANSH LALOTRA ◈`
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=C77DFF&center=true&vCenter=true&width=1000&lines=⚡+Building+Intelligent+Systems;🧠+Machine+Learning+Enthusiast;🔐+MLSecOps+Explorer;📈+Quantitative+Research+Explorer" />
-
-</div>
+<p align="center">
+  <img src="./ChatGPT Image Jun 12, 2026, 02_39_37 AM.png" width="100%">
+</p>
 
 
 

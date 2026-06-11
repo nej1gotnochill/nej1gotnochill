@@ -1,6 +1,6 @@
-# hey, i'm divyansh · nej1gotnochill 👋
+# Hi , I'm Divyansh Lalotra · nej1gotnochill 👋
 
-20 y/o ML engineer in training · **Thapar Institute of Engineering & Technology** (2025–2029 batch, Punjab, India)  
+18 y/o ML engineer in training · **Thapar Institute of Engineering & Technology** (2025–2029 batch, Punjab, India)  
 Machine Learning + MLOps + ML SecOps · Data Science Systems · UI/UX & Product Design
 
 I build end-to-end ML systems, secure ML pipelines, and tools that help developers and data scientists ship faster.
@@ -15,7 +15,7 @@ I build end-to-end ML systems, secure ML pipelines, and tools that help develope
 - 🎨 I do **UI/UX design** (Figma) and care about product-minded engineering
 - 💻 I code in **Python**, **C++**, and love competitive programming & algorithms
 - 🛠 I work with cloud & devops: Firebase, Vercel, Railway, Google Vertex AI, and more
-- 🏢 Previously an **intern at COSMOTER**, working on ML/data projects and internal tools
+- 🏢 Previously an **intern at Cosmic Attire **, working on ML/data projects and internal tools
 
 ---
 

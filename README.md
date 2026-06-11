@@ -1,86 +1,85 @@
-# Hi , I'm Divyansh Lalotra · nej1gotnochill 👋
+👋 Hi, I'm Divyansh Lalotra
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving\&color=6A0DAD\&height=250\&section=header\&text=Divyansh%20Lalotra\&fontSize=45\&fontColor=ffffff"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=9D4EDD\&center=true\&vCenter=true\&width=700\&lines=CSBS+Student+%40+TIET;AI%2FML+Research+Enthusiast;UI%2FUX+Designer;MLSecOps+Learner;Quantitative+Finance+Explorer"/>
+</p>
+🚀 About Me
+🎓 B.E. in Computer Science and Business Systems, TIET (2025–2029)
+📊 CGPA: 8.60/10.00
+🧠 Interests: ML Security, AI/ML, Quant Finance, UI/UX
+🌱 Currently Learning: MLSecOps
+🔭 Working on authentication systems and volatility forecasting.
+🏆 Achievements
+🥇 Google Big Code 2026 – Top 1500 (Round 2)
+🥇 India Innovation Challenge 2026 – Top 337 / 10,000+ Teams
+🛠 Tech Stack
+Languages: Python, C++  
+ML: TensorFlow, Scikit-learn, XGBoost, FinBERT  
+Data Science: Pandas, NumPy, Jupyter  
+Design: Figma, Blender, UI/UX  
+Deployment: Render, Vercel  
+Tools: Git, GitHub
+🔬 Research
+HWSS-ML: Intelligent Authentication System
+Ensemble learning for authentication risk assessment.
+SHAP explainability for model decisions.
+Focus on adversarial robustness and concept drift.
+📌 Featured Projects
+<details>
+<summary><b>Stock Volatility Forecasting</b></summary>
+HARNet, GARCH and XGBoost pipelines.
+Forward Test Results:
+R² = 0.4197
+RMSE = 0.7393
+Incorporated sentiment-aware forecasting.
+</details>
+<details>
+<summary><b>Jal Rakshak: Flood Management Dashboard</b></summary>
+Citizen and administrative disaster response workflows.
+Data cleaning and preprocessing.
+India Innovation Challenge Grand Finale.
+</details>
+💼 Experience
+UI/UX Intern – OBE Platform
+CO-PO mapping interfaces.
+Statistical visualizations.
+Faculty collaboration.
+AI Prompt Engineer Intern – Cosmic Attire
+Figma interfaces.
+Blender assets.
+📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nej1gotnochill\&show\_icons=true\&theme=midnight-purple"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nej1gotnochill\&theme=midnight-purple"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nej1gotnochill\&layout=compact\&theme=midnight-purple"/>
+</p>
+🏅 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nej1gotnochill\&theme=algolia"/>
+</p>
+📊 Activity Graph
+![Activity Graph](https://github.com/nej1gotnochill)
+🎯 Current Focus
+```yaml
+research:
+  - ML Security
+  - Explainable AI
 
-18 y/o ML engineer in training · **Thapar Institute of Engineering & Technology** (2025–2029 batch, Punjab, India)  
-Machine Learning + MLOps + ML SecOps · Data Science Systems · UI/UX & Product Design
+building:
+  - Volatility Forecasting Systems
+  - Authentication Frameworks
 
-I build end-to-end ML systems, secure ML pipelines, and tools that help developers and data scientists ship faster.
-
----
-
-## about me
-
-- 🧠 I specialize in **machine learning**, **MLOps**, and **ML SecOps**
-- 🔒 I'm an **ML SecOps enthusiast**: model robustness, adversarial ML, and secure ML pipelines
-- 📊 I design and build **data science systems** from data ingestion to deployment
-- 🎨 I do **UI/UX design** (Figma) and care about product-minded engineering
-- 💻 I code in **Python**, **C++**, and love competitive programming & algorithms
-- 🏢 Previously an **intern at Cosmic Attire **, working on ML/data projects and internal tools
-
----
-
-## what i work on
-
-- **End-to-end ML systems**  
-  From data cleaning and feature engineering to training, evaluation, and deployment
-- **Security-aware ML applications**  
-  Fraud/scam detection, model monitoring, adversarial robustness, and secure inference pipelines
-- **Quant & volatility forecasting**  
-  Realized volatility forecasting (HARNet, GARCH, XGBoost) and time-series modeling
-- **UI/UX-driven products**  
-  Clean interfaces, dashboards, and tools designed with Figma and built for real users
-
----
-
-## key repos
- 
- 
-- **[ThaparCanteenSalesOptimizer](https://github.com/nej1gotnochill/ThaparCanteenSalesOptimizer)** – Sales optimization & forecasting  
-- **[canteen-vision](https://github.com/nej1gotnochill/canteen-vision)** – Vision-based system for canteen operations
-- **[Stock Volatility Forecasting](https://github.com/nej1gotnochill/volatility-forecasting-harnet-garch-xgboost)** – ML-driven models (HARNet, GARCH, XGBoost) for forecasting stock volatility and understanding market risk.  
-- **[Cosmic Safe Wear](https://github.com/nej1gotnochill/cosmic-safe-wear)** – Safety-focused smart wearables concept built at Cosmic Attire , combining ML and security thinking for real-world use.  
-- **[Jal Rakshak UI](https://github.com/nej1gotnochill/jal-rakshak-ui)** – Award-winning, hackathon‑built flood management dashboard for the Jal Rakshak system, handling admin and citizen-facing interfaces at scale.[web:20]
-
----
-
-## tech stack
-
-### ML & Data
-- Languages: **Python**, **C++**, **R**
-- ML: **PyTorch**, **TensorFlow**, **Transformers**, **DeBERTa**
-- Data: **Pandas**, **NumPy**, **Scikit-learn**, **Jupyter**
-
-### MLOps
-- MLOps: Experiment tracking, model deployment, monitoring
-- Versioning & CI: **Git**, **GitHub Actions**
-
-### Tools & Design
-- Dev: **VS Code**, **GitHub Copilot**
-- ML Platforms: **Hugging Face and Kaggle**
-- Design: **Figma**, UI/UX, Product Design
-
----
-
-## current focus
-
-- Deepening my **ML SecOps** skills: adversarial robustness, model monitoring, secure pipelines
-- Building more **end-to-end MLOps** systems with better experiment tracking and deployment
-- Exploring **quant finance & volatility forecasting** (HARNet, GARCH, XGBoost)
-- Preparing for **hackathons**, **GSoC**, and **competitive programming** events
-
----
-
-## stats
-
-<!-- GitHub Readme Stats & GitHub Streak -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nej1gotnochill&theme=dark&show_icons=true)](https://github.com/anj3nod/github-readme-stats)
-[![GitHub Streak](https://streak.vercel.app/api?username=nej1gotnochill&theme=dark)](https://github.com/dwercy/github-streak)
-
----
-
-## let's connect
-
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/divyanshlalotra)
-- **Email**: [Email](mailto:divyanshlalotra2@gmail.com)  
-- **Thapar Email**: [Email](mailto:dlalotra_be25@thapar.edu)
-
-Feel free to reach out if you want to collaborate on ML, MLOps, ML SecOps, Quant, or UI/UX projects.
+learning:
+  - MLSecOps
+```
+🌐 Connect With Me
+LinkedIn: https://www.linkedin.com/in/divyansh-lalotra-89145137a/
+GitHub: https://github.com/nej1gotnochill
+LeetCode: https://leetcode.com/u/nej1gotnochill/
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving\&color=6A0DAD\&height=150\&section=footer"/>
+</p>

@@ -36,7 +36,10 @@ I build end-to-end ML systems, secure ML pipelines, and tools that help develope
  
  
 - **[ThaparCanteenSalesOptimizer](https://github.com/nej1gotnochill/ThaparCanteenSalesOptimizer)** – Sales optimization & forecasting  
-- **[canteen-vision](https://github.com/nej1gotnochill/canteen-vision)** – Vision-based system for canteen operations  
+- **[canteen-vision](https://github.com/nej1gotnochill/canteen-vision)** – Vision-based system for canteen operations
+- **[Stock Volatility Forecasting](https://github.com/nej1gotnochill/volatility-forecasting-harnet-garch-xgboost)** – ML-driven models (HARNet, GARCH, XGBoost) for forecasting stock volatility and understanding market risk.  
+- **[Cosmic Safe Wear](https://github.com/nej1gotnochill/cosmic-safe-wear)** – Safety-focused smart wearables concept built at COSMOTER, combining ML and security thinking for real-world use.  
+- **[Jal Rakshak UI](https://github.com/nej1gotnochill/jal-rakshak-ui)** – Award-winning, hackathon‑built flood management dashboard for the Jal Rakshak system, handling admin and citizen-facing interfaces at scale.[web:20]
 
 ---
 

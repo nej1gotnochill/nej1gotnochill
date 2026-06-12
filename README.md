@@ -18,107 +18,69 @@
   </a>
 </p>
 
-::: {align="center"}
-# 👋 Hey, I'm Divyansh Lalotra
+# 🚀 About Me
+- 🎓 B.E. in Computer Science and Business Systems, TIET (2025–2029)
+- 📊 CGPA: **8.60/10.00**
+- 🧠 Interests: ML Security, AI/ML, Quant Finance, UI/UX
+- 🌱 Currently Learning: **MLSecOps**
+- 🔭 Working on authentication systems and volatility forecasting.
 
-### `Building secure AI systems • Exploring Quantitative Finance • Crafting impactful products`
+## 🏆 Achievements
+- 🥇 Google Big Code 2026 – **Top 1500 (Round 2)**
+- 🥇 India Innovation Challenge 2026 – **Top 337 / 10,000+ Teams**
 
-`<img src="https://img.shields.io/badge/GitHub-nej1gotnochill-A855F7?style=for-the-badge&logo=github" />`{=html}
-`<img src="https://img.shields.io/badge/TIET-CSBS-A855F7?style=for-the-badge" />`{=html}
-`<img src="https://img.shields.io/badge/CGPA-8.60%2F10-A855F7?style=for-the-badge" />`{=html}
-:::
+## 🛠 Tech Stack
+**Languages:** Python, C++  
+**ML:** TensorFlow, Scikit-learn, XGBoost, FinBERT  
+**Data Science:** Pandas, NumPy, Jupyter  
+**Design:** Figma, Blender, UI/UX  
+**Deployment:** Render, Vercel  
+**Tools:** Git, GitHub  
 
-------------------------------------------------------------------------
+## 🔬 Research
+### HWSS-ML: Intelligent Authentication System
+- Ensemble learning for authentication risk assessment.
+- SHAP explainability for model decisions.
+- Focus on adversarial robustness and concept drift.
 
-## 🚀 About Me
+## 📌 Featured Projects
+<details>
+<summary><b>Stock Volatility Forecasting</b></summary>
 
--   🎓 **B.E. in Computer Science and Business Systems**
-    -   Thapar Institute of Engineering & Technology (2025--2029)
--   📊 **CGPA:** 8.60 / 10.00
--   🏆 **Google Big Code 2026:** Top 1500 (Round 2)
--   🧠 Interests:
-    -   Machine Learning Security
-    -   Artificial Intelligence & Machine Learning
-    -   Quantitative Finance
-    -   UI/UX Design
--   🌱 Currently Learning: **MLSecOps**
--   🔭 Working on:
-    -   Authentication Systems
-    -   Volatility Forecasting Models
+- HARNet, GARCH and XGBoost pipelines.
+- Forward Test Results:
+  - R² = 0.4197
+  - RMSE = 0.7393
+- Incorporated sentiment-aware forecasting.
+</details>
 
-------------------------------------------------------------------------
+<details>
+<summary><b>Jal Rakshak: Flood Management Dashboard</b></summary>
 
-## 💻 Tech Stack
+- Citizen and administrative disaster response workflows.
+- Data cleaning and preprocessing.
+- India Innovation Challenge Grand Finale.
+</details>
 
+## 💼 Experience
+### UI/UX Intern – OBE Platform
+- CO-PO mapping interfaces.
+- Statistical visualizations.
+- Faculty collaboration.
 
-Languages      → Python • Java • C/C++ • SQL
-AI / ML        → Scikit-Learn • TensorFlow • PyTorch • NLP
-MLOps          → MLflow • Model Deployment • Experiment Tracking
-Finance        → Volatility Forecasting • HAR Models • Sentiment Analysis
-Backend        → Flask • APIs • Authentication Systems
-Tools          → Git • GitHub • VS Code • Jupyter
+### AI Prompt Engineer Intern – Cosmic Attire
+- Figma interfaces.
+- Blender assets.
 
+## 📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nej1gotnochill&show_icons=true&theme=midnight-purple"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nej1gotnochill&theme=midnight-purple"/>
+</p>
 
-
-
-## 🌟 Featured Projects
-
-### 📈 HAR + Sentiment Volatility Forecasting
-
--   Built a financial forecasting pipeline integrating HAR models with
-    sentiment analysis.
--   Explored forward testing, evaluation metrics, and volatility
-    prediction.
--   Worked with research-oriented methodologies used in quantitative
-    finance.
-
-### 🛡️ SHIELD
-
--   Security-focused project integrating AI workflows with robust
-    engineering practices.
--   Focused on reliable deployment and practical MLOps principles.
-
-### 🔐 Authentication Systems
-
--   Developing secure authentication workflows emphasizing usability and
-    scalability.
-
-------------------------------------------------------------------------
-
-## 📚 Current Focus
-
-
-Research Areas:
-  - Machine Learning Security
-  - Financial Machine Learning
-  - MLOps & MLSecOps
-  - AI System Reliability
-
-Goals:
-  - Contribute to impactful AI projects
-  - Build production-grade ML systems
-  - Explore quantitative engineering opportunities
-
-------------------------------------------------------------------------
-
-## 📊 GitHub Stats
-
-> Replace the placeholders below with your generated GitHub stat cards.
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nej1gotnochill)
-![Streak](https://streak-stats.demolab.com?user=nej1gotnochill)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nej1gotnochill)
-
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-### ✨ "Code with purpose. Learn relentlessly. Build fearlessly."
-
-**GitHub:** `@nej1gotnochill`
-:::
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nej1gotnochill&layout=compact&theme=midnight-purple"/>
+</p>
 
 ## 🌐 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/divyansh-lalotra-89145137a/

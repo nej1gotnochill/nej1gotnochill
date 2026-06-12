@@ -30,7 +30,7 @@
 - 🥇 India Innovation Challenge 2026 – **Top 337 / 10,000+ Teams**
 
 ## 🛠 Tech Stack
-**Languages:** Python, C++  
+**Languages:** Python, C++ , R  
 **ML:** TensorFlow, Scikit-learn, XGBoost, FinBERT  
 **Data Science:** Pandas, NumPy, Jupyter  
 **Design:** Figma, Blender, UI/UX  

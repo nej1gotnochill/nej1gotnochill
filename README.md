@@ -35,7 +35,7 @@ Active upstream contributions to open-source optimization and scientific-computi
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/CVXPY-0A5CA8?style=flat-square&logo=python&logoColor=white" alt="CVXPY" width="112">
+<img src="./cvxpy-logo.png" alt="CVXPY" width="130">
 
 <br><br>
 
@@ -46,7 +46,7 @@ Active upstream contributions to open-source optimization and scientific-computi
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/OpenMS-3B82F6?style=flat-square&logoColor=white" alt="OpenMS" width="112">
+<img src="./openms-logo.png" alt="OpenMS" width="170">
 
 <br><br>
 
@@ -126,3 +126,14 @@ Active upstream contributions to open-source optimization and scientific-computi
 </td>
 </tr>
 </table>
+
+## <font color="#c084fc">GitHub Stats</font>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nej1gotnochill&show_icons=true&theme=midnight-purple" alt="GitHub Stats" width="430">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nej1gotnochill&theme=midnight-purple" alt="GitHub Streak" width="430">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nej1gotnochill&layout=compact&theme=midnight-purple" alt="Top Languages" width="330">
+</p>

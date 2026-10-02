@@ -35,7 +35,7 @@ Active upstream contributions to open-source optimization and scientific-computi
 <tr>
 <td align="center" width="50%">
 
-<img src="./cvxpy-logo.png" alt="CVXPY" width="130">
+<img src="./cvxpy-logo.png" alt="CVXPY" width="100%">
 
 <br><br>
 
@@ -46,7 +46,7 @@ Active upstream contributions to open-source optimization and scientific-computi
 </td>
 <td align="center" width="50%">
 
-<img src="./openms-logo.png" alt="OpenMS" width="170">
+<img src="./openms-logo.png" alt="OpenMS" width="100%">
 
 <br><br>
 
